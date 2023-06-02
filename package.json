@@ -1,0 +1,15 @@
+{
+  "name": "tt-poster",
+  "version": "1.0.0",
+  "description": "For announcing Travel Teachers on the website or Social Media",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": { 
+        "type": "git",
+        "url": "https://github.com/stberg70/tt-poster.git"
+    },
+  "author": "Stefanie van den Berg",
+  "license": "ISC"
+}
